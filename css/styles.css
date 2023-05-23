@@ -168,8 +168,8 @@ main .poke-card .gif-xs {
 }
 
 main .poke-card .gif-s {
-  width: 63px;
-  height: 63px;
+  width: 73px;
+  height: 73px;
   margin-top: 37px;
   transition: 0.2s ease-in-out;
 }
